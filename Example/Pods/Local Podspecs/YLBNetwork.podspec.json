@@ -1,0 +1,27 @@
+{
+  "name": "YLBNetwork",
+  "version": "0.1.0",
+  "summary": "YLBNetwork.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ProBobo/YLBNetwork",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ProBobo": "564885081@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/ProBobo/YLBNetwork.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YLBNetwork/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  }
+}
